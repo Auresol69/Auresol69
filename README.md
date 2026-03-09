@@ -37,6 +37,7 @@ I'm a Software Engineering student with a strong passion for Backend Development
 * **🚌 School Bus Monitoring & Tracking System**
     * Real-time tracking and monitoring architecture.
     * Designed system architecture and optimized database structure for high concurrency.
+    * Integrated facial recognition technology for automated student attendance tracking.
 * **📄 AI-Powered PDF Retrieval-Augmented Generation (RAG)**
     * Built an information retrieval system querying PDF files using Python and the Gemini API.
 * **👁️ Document Optical Character Recognition (OCR) Tool**
