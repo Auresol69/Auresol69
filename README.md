@@ -8,6 +8,10 @@ I'm a Software Engineering student with a strong passion for Backend Development
 - ☁️ Exploring Cloud Infrastructure, CI/CD, and containerization.
 - 🤖 Enthusiastic about integrating AI (RAG, LLMs) and Computer Vision into practical applications.
 
+[📄 Click here to view and download my Resume](https://github.com/Auresol69/Auresol69/edit/main/resume.pdf)
+
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-232F3E?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/Auresol69/Auresol69/edit/main/resume.pdf)
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
@@ -54,6 +58,6 @@ I'm a Software Engineering student with a strong passion for Backend Development
 </p>
 
 ### 📫 Let's Connect!
-- **Email:** [Your Email Here](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [Your GitHub Pages Link](https://your-username.github.io)
+- **Email:** [Your Email Here](mailto:quocbao962005@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/wuocpao)
+- **Portfolio:** [Your GitHub Pages Link](https://auresol69.github.io)
