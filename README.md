@@ -52,10 +52,18 @@ I'm a Software Engineering student with a strong passion for Backend Development
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auresol69&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auresol69&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Auresol69&show_icons=true&theme=radical&rank_icon=github" alt="Auresol69's GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auresol69&layout=compact&theme=radical" alt="Auresol69's Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Auresol69&theme=radical" alt="Auresol69's GitHub Streak" />
+</div>
 
 ### 📫 Let's Connect!
 - **Email:** [quocbao962005@gmail.com](mailto:quocbao962005@gmail.com)
