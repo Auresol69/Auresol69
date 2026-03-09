@@ -58,6 +58,6 @@ I'm a Software Engineering student with a strong passion for Backend Development
 </p>
 
 ### 📫 Let's Connect!
-- **Email:** [Your Email Here](mailto:quocbao962005@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/wuocpao)
-- **Portfolio:** [Your GitHub Pages Link](https://auresol69.github.io)
+- **Email:** [quocbao962005@gmail.com](mailto:quocbao962005@gmail.com)
+- **LinkedIn:** [linkedin.com/in/wuocpao](https://linkedin.com/in/wuocpao)
+- **Portfolio:** [auresol69.github.io](https://auresol69.github.io)
