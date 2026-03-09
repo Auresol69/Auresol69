@@ -54,11 +54,11 @@ I'm a Software Engineering student with a strong passion for Backend Development
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auresol69&show_icons=true&theme=radical&rank_icon=github" alt="Auresol69's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Auresol69&show_icons=true&theme=radical&rank_icon=github" alt="Auresol69's GitHub Stats" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auresol69&layout=compact&theme=radical" alt="Auresol69's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Auresol69&layout=compact&theme=radical" alt="Auresol69's Top Languages" />
 </div>
 <br/>
 <div align="center">
