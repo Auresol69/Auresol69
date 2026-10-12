@@ -58,7 +58,7 @@ I'm a Software Engineering student with a strong passion for Backend Development
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Auresol69&layout=compact&theme=radical&exclude_languages=html,css&langs_count=6" alt="Auresol69's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Auresol69&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Auresol69's Top Languages" />
 </div>
 <br/>
 <div align="center">
